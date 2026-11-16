@@ -158,3 +158,10 @@ src/test/java/br/com/portfolio/taskmanager/
 O arquivo `.env` contem configuracoes locais e nao deve ser versionado.
 
 Utilize `.env.example` como referencia, sem armazenar senhas reais no repositorio.
+
+## Demonstracao de funcionamento
+
+A imagem apresenta os resultados de uma execucao real dos
+endpoints de criacao, consulta, atualizacao e conclusao de tarefas.
+
+![Demonstracao da Task Manager API](docs/images/funcionamento.png)
